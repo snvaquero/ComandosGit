@@ -1,0 +1,14 @@
+Git init
+Git add.
+Git add nombre archivo con extension
+Git Push - f - u Origin MasteroNombreBranch Enviar lo q tenes local hacia nube
+Git checkout
+git remote add origin https://github.com/snvaquero/nombrearchivo
+Crear un archivo con nombre .gitignore
+git branch ver versiones de proyectos o carpetas
+git status
+git add
+git commit o git commit -m ""
+git log
+git checkout --nombrearchivo (para restore)
+git diff
