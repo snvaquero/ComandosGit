@@ -1,13 +1,14 @@
-Git init
-Git add.
-Git add nombre archivo con extension
-Git Push - f - u Origin MasteroNombreBranch Enviar lo q tenes local hacia nube
+1) Git init
+2) Git add. o git add nombredearchivo
+3) git commit o git commit -m "" (entre las comillas escribir la tipificacion de esta version)
+4) git remote add origin https://github.com/snvaquero/nombrearchivo
+5) git push - f - u origin MasteroNombreBranch Enviar lo q tenes local hacia nube
+
 Git checkout
-git remote add origin https://github.com/snvaquero/nombrearchivo
+
 Crear un archivo con nombre .gitignore
 git branch ver versiones de proyectos o carpetas
 git status
-git add
 git commit o git commit -m ""
 git log
 git checkout --nombrearchivo (para restore)
