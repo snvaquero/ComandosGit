@@ -6,3 +6,20 @@ package seleccionar el dll con nombre Microsoft.ReportViewer.WinForms.dll
 5) Agregar en carpeta Reportes un conjunto de datos dataset
 6) agregar un table adapter
 7) En carpeta reportes agregar un nuevo elemento un informe y le llamo Rptcliente
+8) click derecho insertar un encabezado
+Click derecho insertar un pie de pagina
+en encabezado agregar con click derecho un textbox, luego click derecho en el textbox y seleciconar expresion para
+agregar la fecha
+en encabezado agregar un textbox para poner etiqueta label o titulo descriptivo del reporte a Crear
+en el pie de pagina igual insertar un textbox luego expresion y agregar pagina y pagina de
+por ultimo en detalle del informe insertar una tabla
+9) click derecho en detalle del informe e insertar una tabla pide nombre del dataset le ponder DScliente, origen es el conjunto de
+dato que agregamos DsSistema y selecionamos nuestro procedimiento almacenado en este caso el listar
+10)despues de hacer todos los ajustes en extensiones propiedades del informe y tambien extensiones ver regla y reducimos el informe a
+ajustado
+11) en carpeta reportes vamos agregar un form donde vamos agregar un ReportViewer y lo acoplamos y seleccionamos el reportes
+12) agregar un boton reporte y programar lo siguiente vamos a crear un objeto con nombre reporte,
+se hace de la siguiente manera escribi el nombre de carpeta donde esta el reporte y nombre de reporte luego el nombre del objeto
+y quedaria asi
+Reportes.FrmCliente reporte = new Reportes.FrmCliente();
+reporte.showdialog();
