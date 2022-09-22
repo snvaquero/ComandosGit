@@ -5,3 +5,4 @@ package seleccionar el dll con nombre Microsoft.ReportViewer.WinForms.dll
 4) Crear carpeta nombre Reportes
 5) Agregar en carpeta Reportes un conjunto de datos dataset
 6) agregar un table adapter
+7) En carpeta reportes agregar un nuevo elemento un informe y le llamo Rptcliente
