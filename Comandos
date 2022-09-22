@@ -1,5 +1,5 @@
 1) Git init
-2) Git add. o git add nombredearchivo
+2) Git add. o git add nombredearchivo (Agrega al staged)
 3) git commit o git commit -m "" (entre las comillas escribir la tipificacion de esta version)
 4) git remote add origin https://github.com/snvaquero/nombrearchivo
 5) git push - f - u origin MasteroNombreBranch Enviar lo q tenes local hacia nube
