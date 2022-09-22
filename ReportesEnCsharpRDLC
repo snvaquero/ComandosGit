@@ -1,0 +1,7 @@
+1) instalar extesion rdlc
+2) instalar paquetes nuget reporting services
+3) Agregar un elemento existente buscar dll en carpeta donde esta el proyecto en carpeta
+package seleccionar el dll con nombre Microsoft.ReportViewer.WinForms.dll
+4) Crear carpeta nombre Reportes
+5) Agregar en carpeta Reportes un conjunto de datos dataset
+6) agregar un table adapter
